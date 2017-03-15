@@ -1,4 +1,4 @@
-# react-dashboard
+# react-half-circle-dashboard
 React Dashboard is a React component which enables display half circle dashboard..
 
 **注意：目前这个组件是基于[Ant Design Progress](https://ant.design/components/progress-cn/)和[rc-progress](https://github.com/react-component/progress)
@@ -7,7 +7,7 @@ React Dashboard is a React component which enables display half circle dashboard
 ## install
 
 ```
-npm install react-dashboard --save
+npm install react-half-circle-dashboard --save
 ```
 
 ## example

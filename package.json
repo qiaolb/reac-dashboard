@@ -1,5 +1,5 @@
 {
-  "name": "react-dashboard",
+  "name": "react-half-circle-dashboard",
   "version": "0.9.0",
   "description": "React Dashboard is a React component which enables display half circle dashboard.",
   "main": "index.js",
