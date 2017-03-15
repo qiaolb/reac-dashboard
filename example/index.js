@@ -26,7 +26,7 @@ class Main extends React.Component {
       openWidth={openWidth}
       className={className}
       showInfo
-      format={(value, minValue, maxValue)=>value}
+      format={(value, minValue, maxValue)=>`${value}°C`}
     />;
   }
 }
